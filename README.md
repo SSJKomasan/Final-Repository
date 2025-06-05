@@ -2,8 +2,9 @@
 
 ## About the Developer
 
-Hi, I'm Jabot D – My name is Jabot Dixon and I am a Junior at Mt.Eden High School I enjoy hobbies such as listening to music along with playing Video games I hope that one day I go the Cyber Security route and make a lot of money
-So far, from the beginning of the class until now, I have learned a lot about coding as a whole. I’ve gained knowledge about different types of coding languages such as C++, JavaScript, and HTML, and I’ve also learned about the unique things each language can do. Not only have I expanded my understanding of coding, but I’ve also discovered that I want to further pursue a career in it and maybe even major in it in the future.
+Hi, I'm Jabot D – My name is Jabot Dixon and I am a Junior at Mt. Eden High School. I enjoy hobbies such as listening to music and playing video games. I hope that one day I can go the Cyber Security route and make a successful career doing what I love.
+
+So far, from the beginning of the class until now, I have learned a lot about coding as a whole. I’ve gained knowledge about different types of programming languages such as C++, JavaScript, and HTML, and I’ve also learned about the unique things each language can do. Not only have I expanded my understanding of coding, but I’ve also discovered that I want to further pursue a career in it and maybe even major in it in the future.
 
 ## Project Summary
 
@@ -21,24 +22,27 @@ My portfolio site includes:
 ## Featured Projects
 
 Here are the main projects featured in my portfolio:
-Password Generator
-A Password Generator app that helps you make safe passwords for accounts.
-Black Jack
-A Black Jack game that is fun and playable.
-Calculator
-A classic and simple Calculator.
 
-Guess the Flag
-A simple game where the user is to guess the Flag.
+- **Password Generator**  
+  An app that helps you make strong and safe passwords for accounts.
 
-Try the Survival Game
+- **Black Jack**  
+  A fun and interactive Black Jack game that you can play in your browser.
 
+- **Calculator**  
+  A classic and simple calculator for basic arithmetic.
+
+- **Guess the Flag**  
+  A simple game that tests your knowledge of country flags.
+
+- **Try the Survival Game**  
+  A creative and engaging survival game experience (if available in the repo).
 
 ## Links
 
-- **GitHub Repository:** [https://github.com/SSJKomasan/SSJKomasan.github.io](https://github.com/SSJKomasan/Project-Portfolio.github.io)
-- **Live Site on GitHub Pages:** [https://SSJKomasan.github.io/SSJKomasan.github.io/](https://SSJKomasan.github.io/Project-Portfolio.github.io/)
+- **GitHub Repository:** [https://github.com/SSJKomasan/Final-Repository](https://github.com/SSJKomasan/Final-Repository)
+- **Live Site on GitHub Pages:** [https://ssjkomasan.github.io/Final-Repository/](https://ssjkomasan.github.io/Final-Repository/)
 
 ---
 
-Feel free to explore the code, test the live projects, and reach out if you have any questions or feedback!
+Feel free to explore the code, try out the live projects, and reach out if you have any questions or feedback!
